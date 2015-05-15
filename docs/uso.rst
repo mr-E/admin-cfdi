@@ -23,7 +23,7 @@ Las pruebas realizan descargas mediante
 varios modos de búsqueda y validan
 que la cantidad de archivos descargados
 sea la esperada.  No requieren interacción
-mientas corren.
+mientras corren.
 
 Es necesario crear un archivo  de credenciales y un archivo de
 configuración para las pruebas.  El archivo de configuración
